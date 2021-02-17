@@ -1,0 +1,13 @@
+The final project of ND - Github Recdec1
+
+Gravity Guru
+
+Use the 'SpaceBar' key to invert gravity in the Gravity Guru World,
+and attempt to navigate your way through the various obstacles and 
+mazes.
+
+The end of the course is marked by a Flag!
+
+Dont let the screen overtake you, and dont fall through holes in the world.
+
+Good Luck!
